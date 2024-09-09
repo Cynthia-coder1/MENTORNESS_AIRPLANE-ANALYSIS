@@ -10,6 +10,10 @@
 ## Project Overview
 This data analysis provides insights into airplane crashes by analyzing various aspect of the data to identify trends,make data-driven decision and gain deeper understanding of the likely causes of airplane crashes.
 
+
+![Screenshot (57)](https://github.com/user-attachments/assets/97602703-88b3-4c43-8825-63aded461768)
+
+
 ### Objectives
 - Temporal analysis
 - Geospatial analysis.
