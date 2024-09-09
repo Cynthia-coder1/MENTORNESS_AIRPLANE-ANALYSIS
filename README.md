@@ -11,8 +11,7 @@
 This data analysis provides insights into airplane crashes by analyzing various aspect of the data to identify trends,make data-driven decision and gain deeper understanding of the likely causes of airplane crashes.
 
 
-![Screenshot (57)](https://github.com/user-attachments/assets/97602703-88b3-4c43-8825-63aded461768)
-
+![airplanecrash dashboard](https://github.com/user-attachments/assets/49f8d1a0-cb76-4b95-9695-9fd850a7474c)
 
 ### Objectives
 - Temporal analysis
@@ -22,7 +21,6 @@ This data analysis provides insights into airplane crashes by analyzing various 
 - Fatality trends.
 - Route analysis.
 
-  
 ### Data sources
 Airplane crash : The primary dataset used for this analysis is 'Airplane Crash Analysis.csv' which provides detailed information on various airplane crashes.
 
